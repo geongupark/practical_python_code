@@ -1,0 +1,6 @@
+# '#' is comment.
+# use standard Glob pattern.
+# If starting with "/", it is not ignored recursively.
+# end of directory is "/"
+# The file starting with "/" is not ignored.
+.vscode/
