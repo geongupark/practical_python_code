@@ -1,4 +1,4 @@
-# 1. What is "practical_python_code"?
+# 1. What is "snippet-python"?
 * This repository is a **practical code bunch of python**
 
 # 2. Contents
